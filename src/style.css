@@ -1,0 +1,315 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;500&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'IBM Plex Mono', monospace;
+	font-weight: 300;
+	font-size: 3vw;
+	position: relative;
+	align-items: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+img {
+	max-width: 100%;
+	display: block;
+	margin: auto;
+	height: auto;
+	padding-bottom: 10px;
+}
+
+/* Navbar styles */
+
+nav {
+	display: flex;
+	align-items: center;
+	background-color: #ffffff;
+	padding: 30px 25px;
+	height: 60px;
+	box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+	z-index: 1;
+}
+
+nav.dark {
+	background-color: #21222a;
+}
+
+.toggler {
+	display: flex;
+	align-items: center;
+}
+
+.toggler p {
+	font-size: 0.625rem;
+	font-weight: 600;
+}
+
+.toggler--slider {
+	width: 25px;
+	height: 13px;
+	background-color: #2b283a;
+	border-radius: 2rem;
+	margin-inline: 7px;
+	cursor: pointer;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	border: 1px solid black;
+	box-sizing: content-box;
+}
+
+nav.dark .toggler--slider {
+	border-color: white;
+	background-color: #f5f5f5;
+}
+
+.toggler--slider--circle {
+	height: 13px;
+	width: 13px;
+	background-color: white;
+	border-radius: 50%;
+}
+
+nav.dark .toggler--slider--circle {
+	background-color: black;
+}
+
+.toggler--light {
+	color: #2b283a;
+	margin: 0;
+}
+
+nav.dark .toggler--light {
+	color: #918e9b;
+}
+
+.toggler--dark {
+	color: #89839a;
+	margin: 0;
+}
+
+nav.dark .toggler-dark {
+	color: #ffffff;
+}
+
+nav.dark .toggler--slider {
+	justify-content: flex-end;
+}
+
+/* Main styles */
+main {
+	padding: 70px 40px;
+	margin: 0px;
+	background-repeat: no-repeat;
+	background-position: right center;
+	flex: 1 1 auto;
+	background-color: #fffffb;
+	color: #2b283a;
+}
+
+main.dark {
+	background-color: #1f2022;
+	color: #fffffb;
+}
+
+a {
+	display: inline-block;
+}
+
+p {
+	margin: 10px;
+}
+
+/* Cursor/hover styles*/
+
+.flower-accent,
+.flower-accent2,
+.flower-accent3,
+.flower-accent3,
+.flower-accent4 {
+	font-size: 3vw;
+	font-family: 'Bretagne self modern web', sans-serif;
+}
+
+.flower-accent:hover {
+	color: rgb(237, 64, 243);
+}
+
+.flower-accent2:hover {
+	color: rgb(64, 64, 243);
+}
+
+.flower-accent3:hover {
+	color: rgb(105, 222, 249);
+}
+
+.flower-accent4:hover {
+	color: rgb(162, 81, 255);
+}
+
+.name:hover {
+	color: rgb(199, 165, 238);
+}
+
+.thunder:hover {
+	color: rgb(247, 78, 16);
+}
+
+.compute:hover {
+	cursor: url('./assets/compute.png'), auto;
+}
+
+.code:hover {
+	cursor: url('./assets/code.png'), auto;
+}
+
+.tech:hover {
+	cursor: url('./assets/ai.png'), auto;
+}
+
+.checker:hover {
+	cursor: url('./assets/checker.png'), auto;
+}
+
+.internet:hover {
+	cursor: url('./assets/internet.png'), auto;
+}
+
+.art:hover {
+	cursor: url('./assets/art.png'), auto;
+}
+
+.design:hover {
+	cursor: url('./assets/design.png'), auto;
+}
+
+.design2:hover {
+	cursor: url('./assets/design2.png'), auto;
+}
+
+.tools:hover {
+	cursor: url('./assets/tools.png'), auto;
+}
+
+.read:hover {
+	cursor: url('./assets/read.png'), auto;
+}
+
+.tea:hover {
+	cursor: url('./assets/tea.png'), auto;
+}
+
+.confections:hover {
+	cursor: url('./assets/macaron.png'), auto;
+}
+
+.wagashi:hover {
+	cursor: url('./assets/dango.png'), auto;
+}
+
+.travel:hover {
+	cursor: url('./assets/earth.png'), auto;
+}
+
+.nintendo:hover {
+	cursor: url('./assets/switch.png'), auto;
+}
+
+.nature:hover {
+	cursor: url('./assets/mushroom.png'), auto;
+}
+
+#photos,
+#plantbasedcraft,
+#blog,
+#portfolio,
+#instagram,
+#linkedin,
+#github,
+#glitch,
+#dribbble,
+#twitter,
+#pinterest,
+#email {
+	text-decoration: none;
+	color: rgb(219, 155, 250);
+	font-weight: 500;
+}
+
+#photos:hover {
+	color: rgb(191, 240, 216);
+	cursor: url('./assets/camera.png'), auto;
+}
+
+#plantbasedcraft:hover {
+	text-decoration: none;
+	color: rgb(19, 228, 96);
+	font-weight: 500;
+	cursor: url('./assets/cooking.png'), auto;
+}
+
+#blog:hover {
+	text-decoration: none;
+	color: rgb(244, 181, 254);
+	font-weight: 500;
+	cursor: url('./assets/thunder.png'), auto;
+}
+
+#portfolio:hover {
+	color: cornflowerblue;
+	cursor: url('./assets/floppy.png'), auto;
+}
+
+#instagram:hover {
+	color: rgb(241, 77, 134);
+	cursor: url('./assets/ig.png'), auto;
+}
+
+#linkedin:hover {
+	color: rgb(85, 215, 255);
+	cursor: url('./assets/linkedin.png'), auto;
+}
+
+#github:hover {
+	color: rgb(132, 140, 227);
+	cursor: url('./assets/github.png'), auto;
+}
+
+#glitch:hover {
+	color: rgb(87, 71, 224);
+	cursor: url('./assets/glitch.png'), auto;
+}
+
+#dribbble:hover {
+	color: #000;
+	color: rgb(227, 192, 132);
+	cursor: url('./assets/dribbble.png'), auto;
+}
+
+#twitter:hover {
+	color: #000;
+	color: rgb(10, 151, 245);
+	cursor: url('./assets/twitter.png'), auto;
+}
+
+#pinterest:hover {
+	color: #000;
+	color: rgb(227, 132, 154);
+	cursor: url('./assets/pin.png'), auto;
+}
+
+#email:hover {
+	color: rgb(206, 132, 227);
+	cursor: url('./assets/email.png'), auto;
+}
+
+@media (max-width: 440px) {
+	body {
+		padding: 0px;
+		font-size: 16px;
+	}
+}
