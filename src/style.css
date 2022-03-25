@@ -79,8 +79,8 @@ nav.dark .toggler--slider--circle {
 }
 
 .toggler--light {
-	color: #2b283a;
 	margin: 0;
+	padding-top: 10px;
 }
 
 nav.dark .toggler--light {
@@ -88,8 +88,8 @@ nav.dark .toggler--light {
 }
 
 .toggler--dark {
-	color: #89839a;
 	margin: 0;
+	padding-top: 10px;
 }
 
 nav.dark .toggler-dark {
