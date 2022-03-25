@@ -108,12 +108,10 @@ main {
 	background-position: right center;
 	flex: 1 1 auto;
 	background-color: #fffffb;
-	color: #2b283a;
 }
 
 main.dark {
 	background-color: #1f2022;
-	color: #fffffb;
 }
 
 a {
@@ -236,7 +234,6 @@ p {
 #pinterest,
 #email {
 	text-decoration: none;
-	color: rgb(219, 155, 250);
 	font-weight: 500;
 }
 

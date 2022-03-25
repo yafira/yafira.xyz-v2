@@ -8,6 +8,7 @@ export default function App() {
 
 	useEffect(() => {
 		document.body.style.backgroundColor = darkMode ? '#1f2022' : '#fffffb'
+		document.body.style.color = darkMode ? '#fffffb' : '#1f2022'
 	}, [darkMode])
 
 	function toggleDarkMode() {
