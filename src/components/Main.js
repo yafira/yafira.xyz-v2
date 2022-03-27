@@ -130,7 +130,7 @@ export default function Main(props) {
 					>
 						Pinterest
 					</a>
-					, and you can also reach her via&nbsp;
+					&nbsp;& you can also reach her via&nbsp;
 					<a
 						id='email'
 						href='mailto: yfr.mrtnz@gmail.com'
