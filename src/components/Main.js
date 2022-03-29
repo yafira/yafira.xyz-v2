@@ -128,9 +128,9 @@ export default function Main(props) {
 						target='_blank'
 						rel='noopener noreferrer'
 					>
-						Pinterest
+						Pinterest&nbsp;
 					</a>
-					&nbsp;& you can also reach her via&nbsp;
+					& you can also reach her via&nbsp;
 					<a
 						id='email'
 						href='mailto: yfr.mrtnz@gmail.com'
