@@ -67,10 +67,10 @@ export default function Main(props) {
 					</a>
 					, ♡ loves having <span className='tea'>tea </span> and&nbsp;
 					<span className='confections'>confections </span> (like
-					<span className='wagashi'> wagashi</span>), game on her
-					<span className='nintendo'>nintendo</span>,{' '}
-					<span className='checker'>play chess</span>, be in
-					<span className='nature'>nature</span>,
+					<span className='wagashi'> wagashi</span>), game on her&nbsp;
+					<span className='nintendo'>nintendo</span>,&nbsp;
+					<span className='checker'>play chess</span>, be in&nbsp;
+					<span className='nature'>nature</span>,&nbsp;
 					<span className='travel'>explore new locations ✶ </span> and always
 					learn new things.
 				</p>
@@ -128,9 +128,9 @@ export default function Main(props) {
 						target='_blank'
 						rel='noopener noreferrer'
 					>
-						Pinterest&nbsp;
+						Pinterest
 					</a>
-					& you can also reach her via&nbsp;
+					&nbsp;& you can also reach her via&nbsp;
 					<a
 						id='email'
 						href='mailto: yfr.mrtnz@gmail.com'
