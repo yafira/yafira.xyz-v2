@@ -52,7 +52,7 @@ export default function Main(props) {
 					>
 						make&nbsp;
 					</a>
-					plant-based recipes,
+					plant-based recipes,&nbsp;
 					<span className='read'>
 						enjoys print material such as books and zines
 					</span>
