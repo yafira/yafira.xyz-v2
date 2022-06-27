@@ -9,7 +9,6 @@ export default function Main(props) {
 				<p>
 					<span className='flower-accent'>✿ </span>
 					<span className='name'>Yafira Martinez </span>
-					<span className='thunder'>ϟ </span>
 					is a&nbsp;
 					<a
 						id='portfolio'

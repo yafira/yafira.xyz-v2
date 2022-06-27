@@ -151,12 +151,11 @@ p {
 }
 
 .name {
-	color: rgb(120, 201, 138);
+	color: rgb(148, 214, 162);
 	font-weight: 500;
 }
 
 .name:hover {
-	color: rgb(163, 232, 178);
 	cursor: url('./assets/flower.png'), auto;
 }
 
