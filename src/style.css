@@ -150,8 +150,14 @@ p {
 	color: rgb(162, 81, 255);
 }
 
-.name:hover {
+.name {
 	color: rgb(120, 201, 138);
+	font-weight: 500;
+}
+
+.name:hover {
+	color: rgb(163, 232, 178);
+	cursor: url('./assets/flower.png'), auto;
 }
 
 .thunder:hover {
