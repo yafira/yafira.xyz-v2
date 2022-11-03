@@ -123,7 +123,7 @@ export default function Main(props) {
 					,&nbsp;
 					<a
 						id='pinterest'
-						href='https://www.pinterest.com/elqtrct'
+						href='https://www.pinterest.com/electr0cute'
 						target='_blank'
 						rel='noopener noreferrer'
 					>
