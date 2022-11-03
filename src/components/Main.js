@@ -129,6 +129,15 @@ export default function Main(props) {
 					>
 						Pinterest
 					</a>
+					,&nbsp;
+					<a
+						id='arena'
+						href='https://www.are.na/yafira/electr0cute'
+						target='_blank'
+						rel='noopener noreferrer'
+					>
+						Are.na
+					</a>
 					&nbsp;& you can also reach her via&nbsp;
 					<a
 						id='email'

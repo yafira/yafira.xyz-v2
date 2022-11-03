@@ -238,6 +238,7 @@ p {
 #dribbble,
 #twitter,
 #pinterest,
+#arena,
 #email {
 	text-decoration: none;
 	font-weight: 500;
@@ -303,6 +304,12 @@ p {
 	color: #000;
 	color: rgb(227, 132, 154);
 	cursor: url('./assets/pin.png'), auto;
+}
+
+#arena:hover {
+	color: #000;
+	color: rgb(186, 195, 234);
+	cursor: url('./assets/arena.png'), auto;
 }
 
 #email:hover {
