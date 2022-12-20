@@ -58,7 +58,7 @@ export default function Main(props) {
 					, ocassionally&nbsp;
 					<a
 						id='blog'
-						href='https://elqtrct.wordpress.com/'
+						href='https://blog.electrocute.io'
 						target='_blank'
 						rel='noopener noreferrer'
 					>
