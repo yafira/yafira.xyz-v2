@@ -105,7 +105,7 @@ export default function Main(props) {
 					,&nbsp;
 					<a
 						id='dribbble'
-						href='https://www.dribbble.com/y-fi'
+						href='https://www.dribbble.com/yafira'
 						target='_blank'
 						rel='noopener noreferrer'
 					>
