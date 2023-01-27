@@ -151,12 +151,14 @@ p {
 }
 
 .name {
-	color: rgb(148, 214, 162);
+	color: rgb(149, 222, 165);
 	font-weight: 500;
+	text-decoration: none;
 }
 
 .name:hover {
 	cursor: url('./assets/flower.png'), auto;
+	color: rgb(128, 207, 183);
 }
 
 .thunder:hover {

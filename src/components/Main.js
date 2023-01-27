@@ -8,7 +8,15 @@ export default function Main(props) {
 			<div className='about'>
 				<p>
 					<span className='flower-accent'>✿ </span>
-					<span className='name'>Yafira Martinez </span>
+					<a
+						className='name'
+						href='https://yafira.dev/'
+						target='_blank'
+						rel='noopener noreferrer'
+					>
+						Yafira Martinez&nbsp;
+					</a>
+					{/* <span className='name'>Yafira Martinez </span> */}
 					is a&nbsp;
 					<a
 						id='portfolio'
