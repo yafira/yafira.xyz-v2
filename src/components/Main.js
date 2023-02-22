@@ -140,7 +140,7 @@ export default function Main(props) {
 					,&nbsp;
 					<a
 						id='arena'
-						href='https://www.are.na/yafira/electr0cute'
+						href='https://www.are.na/yafira'
 						target='_blank'
 						rel='noopener noreferrer'
 					>
