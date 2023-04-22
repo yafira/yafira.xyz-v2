@@ -232,6 +232,7 @@ p {
 #photos,
 #plantbasedcraft,
 #blog,
+#snax,
 #portfolio,
 #instagram,
 #linkedin,
@@ -254,14 +255,17 @@ p {
 #plantbasedcraft:hover {
 	text-decoration: none;
 	color: rgb(19, 228, 96);
-	font-weight: 500;
 	cursor: url('./assets/cooking.png'), auto;
+}
+#snax:hover {
+	text-decoration: none;
+	color: rgb(250, 152, 250);
+	cursor: url('./assets/snax.png'), auto;
 }
 
 #blog:hover {
 	text-decoration: none;
 	color: rgb(244, 181, 254);
-	font-weight: 500;
 	cursor: url('./assets/thunder.png'), auto;
 }
 

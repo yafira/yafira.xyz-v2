@@ -74,8 +74,18 @@ export default function Main(props) {
 					</a>
 					, ♡ loves having <span className='tea'>tea </span> and&nbsp;
 					<span className='confections'>confections </span> (like
-					<span className='wagashi'> wagashi</span>),&nbsp;
-					<span className='nintendo'>game on her nintendo</span>,&nbsp;
+					<span className='wagashi'> wagashi</span>), reviews vegan&nbsp;
+					<a
+						id='snax'
+						href='http://snaxblog.vercel.app/'
+						target='_blank'
+						rel='noopener noreferrer'
+					>
+						snacks
+					</a>{' '}
+					for fun,
+					<span className='nintendo'> game on her nintendo</span>
+					,&nbsp;
 					<span className='checker'>play chess</span>,&nbsp;
 					<span className='nature'>be in nature</span>,&nbsp;
 					<span className='travel'>explore new locations ✶ </span> and always
