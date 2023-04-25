@@ -77,7 +77,7 @@ export default function Main(props) {
 					<span className='wagashi'> wagashi</span>), reviews vegan&nbsp;
 					<a
 						id='snax'
-						href='http://snaxblog.vercel.app/'
+						href='http://snax.blog/'
 						target='_blank'
 						rel='noopener noreferrer'
 					>
