@@ -72,6 +72,15 @@ export default function Main(props) {
 					>
 						blogs
 					</a>
+					, slowly working on a side project called&nbsp;
+					<a
+						id='electrocute'
+						href='http://electrocute.io/'
+						target='_blank'
+						rel='noopener noreferrer'
+					>
+						electrocute
+					</a>
 					, ♡ loves having <span className='tea'>tea </span> and&nbsp;
 					<span className='confections'>confections </span> (like
 					<span className='wagashi'> wagashi</span>), reviews vegan&nbsp;

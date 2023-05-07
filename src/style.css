@@ -232,6 +232,7 @@ p {
 #photos,
 #plantbasedcraft,
 #blog,
+#electrocute,
 #snax,
 #portfolio,
 #instagram,
@@ -266,6 +267,12 @@ p {
 #blog:hover {
 	text-decoration: none;
 	color: rgb(244, 181, 254);
+	cursor: url('./assets/notepad.png'), auto;
+}
+
+#electrocute:hover {
+	text-decoration: none;
+	color: rgb(197, 151, 247);
 	cursor: url('./assets/thunder.png'), auto;
 }
 
