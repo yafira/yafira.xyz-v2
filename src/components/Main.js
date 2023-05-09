@@ -141,7 +141,7 @@ export default function Main(props) {
 					,&nbsp;
 					<a
 						id='instagram'
-						href='https://instagram.com/elqtrct'
+						href='https://instagram.com/electrocutelab'
 						target='_blank'
 						rel='noopener noreferrer'
 					>
