@@ -98,7 +98,7 @@ export default function Main(props) {
 					<span className='checker'>play chess</span>,&nbsp;
 					<span className='nature'>be in nature</span>,&nbsp;
 					<span className='travel'>explore new locations ✶ </span> and always
-					learn new things.
+					learning new things.
 				</p>
 				<p>
 					<span className='flower-accent4'>✿ </span>
