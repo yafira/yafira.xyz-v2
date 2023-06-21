@@ -131,6 +131,15 @@ export default function Main(props) {
 					</a>
 					,&nbsp;
 					<a
+						id='figma'
+						href='https://www.figma.com/@electrocute'
+						target='_blank'
+						rel='noopener noreferrer'
+					>
+						Figma
+					</a>
+					,&nbsp;
+					<a
 						id='dribbble'
 						href='https://www.dribbble.com/yafira'
 						target='_blank'
