@@ -72,7 +72,7 @@ export default function Main(props) {
 					>
 						blogs
 					</a>
-					, slowly working on my digital garden called&nbsp;
+					, slowly working on her digital garden called&nbsp;
 					<a
 						id='electrocute'
 						href='http://electrocute.io/'
