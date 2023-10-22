@@ -44,7 +44,7 @@ export default function Main(props) {
 					<span className='design2'> design ✧</span>, she likes to&nbsp;
 					<a
 						id='photos'
-						href='https://www.instagram.com/electrocute.io/'
+						href='https://www.instagram.com/e1ectr0cute/'
 						target='_blank'
 						rel='noopener noreferrer'
 					>
