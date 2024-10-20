@@ -233,6 +233,10 @@ p {
 	cursor: url('./assets/mushroom.png'), auto;
 }
 
+.sweater:hover {
+	cursor: url('./assets/sweater.png'), auto;
+}
+
 #photos,
 #plantbasedcraft,
 #blog,

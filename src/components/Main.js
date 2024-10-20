@@ -98,6 +98,8 @@ export default function Main(props) {
 					<span className='chessboard'>playing chess</span>,&nbsp;
 					<span className='nature'>being in nature, prefers cozy weather</span>
 					,&nbsp;
+					<span className='sweater'>prefers cozy weather</span>
+					,&nbsp;
 					<span className='bike'>occasionally rides her bike Onyx Odyssey</span>
 					,&nbsp;
 					<span className='travel'>explore new locations ✶ </span> and always
