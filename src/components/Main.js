@@ -24,9 +24,10 @@ export default function Main(props) {
 						target='_blank'
 						rel='noopener noreferrer'
 					>
-						programmer, designer, creative technologist&nbsp;
+						creative technologist&nbsp;
 					</a>
-					with an interest in <span className='compute'>computing, </span>
+					with an interest in{' '}
+					<span className='compute'>programming, computing, </span>
 					<span className='design'>design, </span>
 					<span className='tech'>emerging technologies</span>, and she's
 					studying the intersection of{' '}
