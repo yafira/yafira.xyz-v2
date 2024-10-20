@@ -24,7 +24,7 @@ export default function Main(props) {
 						target='_blank'
 						rel='noopener noreferrer'
 					>
-						software engineer&nbsp;
+						programmer, designer, artsy technologist&nbsp;
 					</a>
 					with an interest in <span className='compute'>computing, </span>
 					<span className='design'>design, </span>
