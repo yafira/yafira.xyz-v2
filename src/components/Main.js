@@ -70,15 +70,17 @@ export default function Main(props) {
 						make&nbsp;
 					</a>
 					plant-based recipes,&nbsp;
-					<span className='read'>enjoys print material like books & zines</span>
-					, you can catch her tinkering, writing + &nbsp;
+					<span className='read'>
+						enjoys print material ~ books, zines, tactile stuff
+					</span>
+					, you can catch her tinkering, writing,
 					<a
 						id='blog'
 						href='http://blog.electrocute.io/'
 						target='_blank'
 						rel='noopener noreferrer'
 					>
-						blogging
+						&nbsp;blogging
 					</a>
 					, slowly working on her digital garden called&nbsp;
 					<a
@@ -91,7 +93,7 @@ export default function Main(props) {
 					</a>
 					, ♡ loves having <span className='tea'>tea </span> and&nbsp;
 					<span className='confections'>confections </span> (like
-					<span className='wagashi'> wagashi</span>), reviews vegan&nbsp;
+					<span className='wagashi'> wagashi ꩜</span>), reviews vegan&nbsp;
 					<a
 						id='snax'
 						href='http://snax.blog/'
@@ -108,7 +110,7 @@ export default function Main(props) {
 					,&nbsp;
 					<span className='sweater'>prefers cozy weather</span>
 					,&nbsp;
-					<span className='bike'>occasionally rides her bike Onyx Odyssey</span>
+					<span className='bike'>occasionally rides her bike onyx odyssey</span>
 					,&nbsp;
 					<span className='travel'>explores new locations ✶ </span> and always
 					learning new things.
