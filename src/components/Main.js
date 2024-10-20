@@ -110,7 +110,7 @@ export default function Main(props) {
 					,&nbsp;
 					<span className='bike'>occasionally rides her bike Onyx Odyssey</span>
 					,&nbsp;
-					<span className='travel'>explore new locations ✶ </span> and always
+					<span className='travel'>explores new locations ✶ </span> and always
 					learning new things.
 				</p>
 				<p>
