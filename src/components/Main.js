@@ -32,7 +32,15 @@ export default function Main(props) {
 					<span className='tech'>emerging technologies</span>, and she's
 					studying the intersection of{' '}
 					<span className='internet'>technology</span> and
-					<span className='art'> art at NYU ITP.</span>
+					<span className='art'> art at </span>
+					<a
+						id='itp'
+						href='https://itp.nyu.edu/itp/'
+						target='_blank'
+						rel='noopener noreferrer'
+					>
+						NYU ITP.
+					</a>
 				</p>
 				<p>
 					<span className='flower-accent2'>✿ </span>

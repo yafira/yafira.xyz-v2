@@ -237,6 +237,7 @@ p {
 	cursor: url('./assets/sweater.png'), auto;
 }
 
+#itp,
 #photos,
 #plantbasedcraft,
 #blog,
@@ -255,6 +256,11 @@ p {
 #email {
 	text-decoration: none;
 	font-weight: 500;
+}
+
+#itp:hover {
+	color: rgb(196, 191, 240);
+	cursor: url('./assets/art.png'), auto;
 }
 
 #photos:hover {
