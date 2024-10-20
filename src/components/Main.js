@@ -62,17 +62,15 @@ export default function Main(props) {
 						make&nbsp;
 					</a>
 					plant-based recipes,&nbsp;
-					<span className='read'>
-						enjoys print material such as books and zines
-					</span>
-					, enjoys to tinker, write, ocassionally&nbsp;
+					<span className='read'>enjoys print material like books & zines</span>
+					, you can catch her tinkering, writing, ocassionally&nbsp;
 					<a
 						id='blog'
 						href='http://blog.electrocute.io/'
 						target='_blank'
 						rel='noopener noreferrer'
 					>
-						blogs
+						blogging
 					</a>
 					, slowly working on her digital garden called&nbsp;
 					<a
