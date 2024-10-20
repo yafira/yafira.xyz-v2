@@ -24,13 +24,14 @@ export default function Main(props) {
 						target='_blank'
 						rel='noopener noreferrer'
 					>
-						programmer, designer, artsy technologist&nbsp;
+						programmer, designer, creative technologist&nbsp;
 					</a>
 					with an interest in <span className='compute'>computing, </span>
 					<span className='design'>design, </span>
-					<span className='tech'>emerging technologies</span>, and the
-					intersection of <span className='internet'>technology</span> and
-					<span className='art'> art.</span>
+					<span className='tech'>emerging technologies</span>, and she's
+					studying the intersection of{' '}
+					<span className='internet'>technology</span> and
+					<span className='art'> art at NYU ITP.</span>
 				</p>
 				<p>
 					<span className='flower-accent2'>✿ </span>
@@ -63,7 +64,7 @@ export default function Main(props) {
 					<span className='read'>
 						enjoys print material such as books and zines
 					</span>
-					, ocassionally&nbsp;
+					, enjoys to tinker, write, ocassionally&nbsp;
 					<a
 						id='blog'
 						href='http://blog.electrocute.io/'
