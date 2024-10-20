@@ -63,7 +63,7 @@ export default function Main(props) {
 					</a>
 					plant-based recipes,&nbsp;
 					<span className='read'>enjoys print material like books & zines</span>
-					, you can catch her tinkering, writing, ocassionally&nbsp;
+					, you can catch her tinkering, writing + &nbsp;
 					<a
 						id='blog'
 						href='http://blog.electrocute.io/'
@@ -93,10 +93,13 @@ export default function Main(props) {
 						snacks
 					</a>{' '}
 					for fun,
-					<span className='nintendo'> game on her nintendo</span>
+					<span className='nintendo'> gaming on her nintendo</span>
 					,&nbsp;
-					<span className='checker'>play chess</span>,&nbsp;
-					<span className='nature'>be in nature</span>,&nbsp;
+					<span className='chessboard'>play chess</span>,&nbsp;
+					<span className='nature'>be in nature, prefers cozy weather</span>
+					,&nbsp;
+					<span className='bike'>occasionally rides her bike Onyx Odyssey</span>
+					,&nbsp;
 					<span className='travel'>explore new locations ✶ </span> and always
 					learning new things.
 				</p>

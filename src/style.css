@@ -177,8 +177,8 @@ p {
 	cursor: url('./assets/ai.png'), auto;
 }
 
-.checker:hover {
-	cursor: url('./assets/checker.png'), auto;
+.chessboard:hover {
+	cursor: url('./assets/chessboard.png'), auto;
 }
 
 .internet:hover {
@@ -203,6 +203,10 @@ p {
 
 .read:hover {
 	cursor: url('./assets/read.png'), auto;
+}
+
+.bike:hover {
+	cursor: url('./assets/bike.png'), auto;
 }
 
 .tea:hover {
